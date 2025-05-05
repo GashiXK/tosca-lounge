@@ -43,10 +43,33 @@
           <div>
             <h4 class="text-lg font-semibold mb-4">Contact</h4>
             <address class="not-italic text-gray-300 space-y-2">
+
+
               
-              <p><UIcon name="tdesign-location"/> Rahovec, Kosova </p>
-              <p><UIcon name="mdi-light-phone"/> 049 18 18 16</p>
-             
+            <!-- Location with link to Google Maps -->
+            <p>
+              <a 
+                href="https://maps.app.goo.gl/WhRKWRK7CwPu2gsc8" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="flex items-center space-x-2 hover:text-restaurant-gold transition-colors"
+              >
+                <UIcon name="tdesign-location" />
+                <span>Rr.28 Nentori, Rahovec 21000, Kosova</span>
+              </a>
+            </p>
+
+            <!-- Phone number link -->
+            <p>
+              <a 
+                href="tel:+38349181816" 
+                class="flex items-center space-x-2 hover:text-restaurant-gold transition-colors"
+              >
+                <UIcon name="mdi-light-phone" />
+                <span>049 18 18 16</span>
+              </a>
+            </p>
+
             </address>
           </div>
         </div>
