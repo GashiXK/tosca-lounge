@@ -86,8 +86,8 @@
   const currentYear = ref(new Date().getFullYear())
   
   const openingHours = {
-    'Monday - Saturday': '7:00 AM - 12:00 PM',
-    'Sunday': '9:00 AM - 12:00 PM'
+    'Monday - Sunday': '7:00 AM - 12:00 PM',
+    
   }
   </script>
   
