@@ -90,14 +90,14 @@
           id: 7,
           name: "Omlet Proshutë",
           description: "Sallatë, Djathë, Hajvar",
-          price: 2.00,
+          price: 2.50,
           isVegetarian: false
         },
         {
           id: 8,
           name: "Omlet Djathë",
           description: "Sallatë, Djathë, Hajvar",
-          price: 2.00,
+          price: 2.50,
           isVegetarian: false
         },
       ]
