@@ -255,7 +255,7 @@
           id: 26,
           name: "Chicken Burger",
           description: "Pomfrit, Mish Pule, Sallatë, Sos",
-          price: 4.00,
+          price: 2.50,
           isVegetarian: false
         },
         {
